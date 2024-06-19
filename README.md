@@ -1,2 +1,4 @@
 # gittutorial
-this is a demo repository
+This is a demo repository
+<br/>
+it is a git tutorial
